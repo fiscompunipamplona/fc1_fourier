@@ -3,13 +3,10 @@
 ### (http://www.unipamplona.edu.co/fisica/)
 ## Primer semestre de 2020
 
-
-## [Contenido de la unidad:](clases/)
-
 ### Estructura de los directorios:
 
-- (/clases): odp, pdf, etc
-- (/codes): códigos básicos
-- (/data): datos necesarios para correr y/o crear códigos
+- [Clases:](/clases): odp, pdf, etc
+- [Codes:](/codes): códigos básicos
+- [Data:](/data): datos necesarios para correr y/o crear códigos
 
 
