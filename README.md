@@ -5,8 +5,8 @@
 
 ### Estructura de los directorios:
 
-- [Clases:](/clases): odp, pdf, etc
-- [Codes:](/codes): códigos básicos
-- [Data:](/data): datos necesarios para correr y/o crear códigos
+- [Clases:](/clases) odp, pdf, etc
+- [Codes:](/codes) códigos básicos
+- [Data:](/data) datos necesarios para correr y/o crear códigos
 
 
